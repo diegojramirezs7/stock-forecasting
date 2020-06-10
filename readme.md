@@ -21,6 +21,11 @@ Algorithms used for forecasting:
 
 For accuracy evaluation, mean squared error was used.
 
-Results
-Accuracy predictions 1 year in the future (from 2018 to 2019)
+### Results
+
+#### Accuracy predictions 1 year in the future (from 2018 to 2019)
 ![accuracy scores](./images/accuracy.png)
+
+#### Correlation between price fluctuations of 2 different companies
+![correlation graphs](./images/correlations.png)
+
