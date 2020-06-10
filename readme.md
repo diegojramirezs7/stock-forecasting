@@ -20,3 +20,7 @@ Algorithms used for forecasting:
 - K-Nearest Neighbours (KNN)
 
 For accuracy evaluation, mean squared error was used.
+
+Results
+Accuracy predictions 1 year in the future (from 2018 to 2019)
+![accuracy scores](./images/accuracy)
